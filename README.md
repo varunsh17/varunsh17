@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varunsh17
 - 👀 I’m interested in python,competetive programming,HTML,CSS,JAVASCRIPT,JAVA more coming soon !
-- 🌱 I’m currently learning web development..
+- 🌱 I’m currently learning..
 - 💞️ I’m looking to collaborate on anything related to coding or hackathon
 
 <!---
