@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varunsh17
-- 👀 I’m interested in python,competetive programming,HTML,CSS,JAVASCRIPT,JAVA more coming soon !
+- 👀 I’m interested in python,competetive programming,REACT-JS,CSS,JAVASCRIPT,NODEJS,MONGO-DB,EXPRESS-JS || Or MERN STACK IN SHORT more coming soon !
 - 🌱 I’m currently learning..
 - 💞️ I’m looking to collaborate on anything related to coding or hackathon
 
