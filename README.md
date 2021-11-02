@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varunsh17
-- 👀 I’m interested in Python, Competitive Programming, MERN !
+- 👀 I’m interested in Python, JAVA, Competitive Programming, MERN !
 - 🌱 I’m currently learning..
 - 💞️ I’m looking to collaborate on anything related to open source or hackathon
 
