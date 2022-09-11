@@ -1,5 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Varun Sharma (or Shanks)</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
+![full-stack-development](https://user-images.githubusercontent.com/81704366/189537595-cf37df65-4edb-41d3-8d42-2dd87114a90a.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsh17&label=Profile%20views&color=0e75b6&style=flat" alt="varunsh17" /> </p>
 
