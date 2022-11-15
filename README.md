@@ -1,13 +1,13 @@
 ![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Varun Sharma (or Shanks)</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate FullStack developer undergrad at NSIT/NSUT</h3>
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varunsh17&label=Profile%20views&color=0e75b6&style=flat" alt="varunsh17" /> </p>
 
-- 🌱 I’m currently learning **DOcker,Kubernetes**
+- 🌱 I’m currently learning **Docker,Kubernetes**
 
 - 👯 I’m looking to collaborate on **MERN**
 
