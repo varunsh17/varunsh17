@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **varunsh170502@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3K10YaN)
-
 - ⚡ Fun fact **Thinking will become greatest tool in future !**
 
 <h3 align="left">Connect with me:</h3>
