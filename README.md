@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **MERN**
 
-- 👨‍💻 All of my projects are available at [https://varun-sharma.netlify.app/](https://varun-sharma.netlify.app/)
-
 - 📫 How to reach me **varunsh170502@gmail.com**
 
 - ⚡ Fun fact **Thinking will become greatest tool in future !**
