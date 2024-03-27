@@ -1,4 +1,3 @@
-![I am GitHub Readme Generator's creator](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Varun Sharma (or Shanks)</h1>
 <h3 align="center">A passionate FullStack developer undergrad at NSIT/NSUT</h3>
 
