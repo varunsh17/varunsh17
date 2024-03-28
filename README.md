@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently in college **NSUT'24**
 
-- 👯 I’m looking to collaborate on **MERN**
+- 👯 I’m looking to collaborate on **Fullstack development**
 
 - 📫 How to reach me **varunsh170502@gmail.com**
 
