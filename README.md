@@ -15,7 +15,7 @@
 - ⚡ Fun fact **Thinking will become greatest tool in future !**
 
 - ⚡ Currently learning **Go**
-- 
+  
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
