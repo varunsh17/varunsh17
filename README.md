@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varun Sharma (or Shanks)</h1>
-<h3 align="center">A passionate FullStack developer undergrad at NSIT/NSUT</h3>
+<h1 align="center">Hi 👋, I'm Varun Sharma (Shanks)</h1>
+<h3 align="center">FullStack developer undergrad at NSIT/NSUT</h3>
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
