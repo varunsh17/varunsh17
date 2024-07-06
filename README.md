@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🌱 Pursuing Bachelor's in Technology from NSIT
+- 🌱 Bachelor's in Technology from NSIT/NSUT Delhi [2024]
 
 - 👯 Expertise in **Fullstack development** domain
 
