@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Varun Sharma (Shanks)</h1>
-<h3 align="center">FullStack developer undergrad at NSIT/NSUT</h3>
+<!-- <h3 align="center">FullStack developer undergrad at NSIT/NSUT</h3> -->
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🌱 Bachelor's in Technology from NSIT/NSUT Delhi [2024]
+- 🌱 Bachelor's in Technology from NSIT/NSUT Delhi
 
-- 👯 Expertise in **Fullstack development** domain
+- 👯 Expertise in **Fullstack/Devops** domain
 
 - 📫 Make sure to reach out at **varunsh170502@gmail.com**
 
 - ⚡ Fun fact **Thinking will become greatest tool in future !**
-
-- ⚡ Currently learning **Go**
   
 <h3 align="left">Connect with me:</h3>
 
