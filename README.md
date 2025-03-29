@@ -3,9 +3,9 @@
 
 <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-- 🌱 Bachelor's in Technology from NSIT/NSUT Delhi
+- 🌱 Graduated from NSIT/NSUT Delhi (India)
 
-- 👯 Expertise in **Fullstack/Devops** domain
+- 👯 Expertise in **Web** domain
 
 - 📫 Make sure to reach out at **varunsh170502@gmail.com**
 
